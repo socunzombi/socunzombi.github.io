@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
 
-You can use the [editor on GitHub](https://github.com/socunzombi/socunzombi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi! My name's Joan Francesc and i'm actually studying a [Bachelor's Degree in Digital Interaction and Computing Techniques](http://www.grauinteraccioicomputacio.udl.cat/en/) at Igualada University Campus of the University of Lleida.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My Hobbies
 
-### Markdown
+I play Rugby since 2016 in Anoia Rugby Club and it's actually one of my favourite hobbies. Rugby it's a contact sport where you have to plant the ball in the try zone of the opposing team.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Since I started my Degree, I discovered another hobbie, computing. I like to code and make my own projects, play with different Linus OS and costumize it. I'm interested too in study some cybersecurity.
 
-```markdown
-Syntax highlighted code block
+Other of my hobbies are watch films, wich my actual favourite director is the greatest Quentin Tarantino and my favourites movie genres are Action, Terror and Horror, Cience Fiction and Comedy. And I love too listen to music, my favourites genres are Heavy Metal and most of its variants, Rock and Punk, and some of my favourites artist are Blaze Out, Crim Punk Rock, AC/DC, Crisix, Blowfuse and the greatest Pink Floyd 
 
-# Header 1
-## Header 2
-### Header 3
+## My Projects
 
-- Bulleted
-- List
+You can find most of my projects in my Github profile, now I don't have a lot of projects, and in a future I will publish there in this page
 
-1. Numbered
-2. List
+## My Social Networks
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/socunzombi/socunzombi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Instagram](https://www.instagram.com/soc_un_zombi/)
+- [Twitter](https://twitter.com/socunzombi)
+- [Facebook](https://www.facebook.com/joan.f.pedrogarcia)
+- [Linkedin](https://www.linkedin.com/in/joan-francesc-pedro-garc%C3%ADa-b2a87a1a5/)
+- [Github](https://github.com/socunzombi)
